@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Folks 👩🏻‍💻<br><br>👩🏻‍💻Name: "Anamika haldar" <br>📚Education: "BSC IT"   <br>🏡Location: "Jamshedpur, Jharkhand, India"  <br>😁Fun Fact: "Artist"    <br>
+Hello Folks 👩🏻‍💻<br><br>👩🏻‍💻Name: "Anamika haldar" <br>📚Education: "M .Sc. DATA SCIENCE"   <br>🏡Location: "Jamshedpur, Jharkhand, India"  <br>😁Fun Fact: "Artist"    <br>
 
 
 ## 🌐 Socials:
